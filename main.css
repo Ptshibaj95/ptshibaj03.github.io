@@ -1,0 +1,50 @@
+.profile {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .imageContainer {
+    width: 20%;
+    height: 50%;
+   
+  }
+  
+  body {
+    align-items: center;
+    background-color:#fffde7;
+  }
+  
+  .secondText {
+    text-align: center;
+    margin: 1em 1em;
+  }
+  .container {
+    width: 100%;
+    height: 100%;
+    margin-left: 10px;
+  }
+  .titleText {
+    text-align: center;
+  }
+  
+  .text{
+      text-align: center;
+      margin: 1em 1em;
+    }
+  
+  .textDetails{
+      margin-left: 38%;
+  }
+  
+  .topContainer{
+  
+  display: flex ;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 33%;
+  
+  }
+  .priscile{
+    display: flex ;
+    margin-left: 22%;
+  }
